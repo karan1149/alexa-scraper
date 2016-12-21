@@ -9,4 +9,6 @@ python scraper.py top-1m.csv 10
 ```
 
 Output is: 
+```
 {'yahoo.com': 6, 'google.co.in': 7, 'wikipedia.org': 5, 'youtube.com': 2, 'google.com': 1, 'amazon.com': 8, 'qq.com': 9, 'google.co.jp': 10, 'baidu.com': 4, 'facebook.com': 3}
+```
